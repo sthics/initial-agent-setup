@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+openai
+pydantic
+pytest
+requests
+dotenv-python # For loading .env files 
